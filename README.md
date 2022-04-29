@@ -9,8 +9,16 @@ This repository contains my notes for Golang.
 - Statically Typed: The type of integer should be defined at compile time and should not change.
 - Once an integer, always an integer.
 
-
 `Note: Even when it is strong and statically typed like Java, it is less verbose than Java.`
+
+
+**Key Features**
+- Simplicity
+- Fast Compile Times
+- Garbage Collection
+- Built-in concurrency
+- Compile to standalone binaries: All dependencies are present in binary
+
 
 
 
