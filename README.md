@@ -3,7 +3,7 @@ This repository contains my notes for Golang.
 
 
 ## Introduction:
-It is strong and statically typed.
+**It is strong and statically typed.**
 - Strong typed: Operations performed on a variable must match it's type.
 - e.g. `a = "1" + 1` is not allowed
 - Statically Typed: The type of integer should be defined at compile time and should not change.
